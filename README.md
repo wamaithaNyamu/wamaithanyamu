@@ -10,8 +10,8 @@
 **GitHub Stats**
 <br />
 <br />
-<a href="https://github.com/ritesh-sharma33">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-sharma33&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Ritesh's github stats"/></a>
+<a href="https://github.com/wamaithanyamu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wamaithanyamu&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Wamaitha's github stats"/></a>
 
-<a href="https://github.com/ritesh-sharma33">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wamaithanyamu&theme=onedark" alt="Ritesh's github stats"/></a>
+<a href="https://github.com/wamaithanyamu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wamaithanyamu&theme=onedark" alt="Wamaitha's github stats"/></a>
