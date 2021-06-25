@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on datascience projects
 - 📫 How to reach me: hello@wamaithanyamu.com
 
-**GitHub Stats**
+
 <br />
 <br />
 <a href="https://github.com/wamaithanyamu">
