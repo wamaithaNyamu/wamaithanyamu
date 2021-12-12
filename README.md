@@ -16,3 +16,9 @@
 
 <a href="https://github.com/wamaithanyamu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wamaithanyamu&theme=onedark" alt="Wamaitha's github stats"/></a>
+ 
+ 
+<p align="center">
+<a href="https://github.com/wamaithaNyamu/github-readme-activity-graph"><img alt="Wamaitha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wamaithaNyamu&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
+  </p>
+<br><br>
