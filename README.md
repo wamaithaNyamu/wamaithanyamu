@@ -10,7 +10,15 @@
 - 👯 I’m looking to collaborate on data science projects
 - 📫 How to reach me: hello@wamaithanyamu.com
 
+ <br />
+<br />
+ 
 
+## 🏆GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=wamaithanyamu&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
+ 
+ 
 <br />
 <br />
 <a href="https://github.com/wamaithanyamu">
@@ -25,8 +33,5 @@
   </p>
 <br><br>
 
-## 🏆GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=wamaithanyamu&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
 
 <br><br/>
