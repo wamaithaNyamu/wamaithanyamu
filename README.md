@@ -95,7 +95,7 @@
 ## ✍️ Recent Technical Articles
 
 - [Dealing with outliers in machine learning](https://scanairobi.hashnode.dev/dealing-with-outliers)
-- [How to integrate the Mpesa ATK push API in NodeJS](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs)
+- [How to integrate the Mpesa STK push API in NodeJS](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs)
 - [Finding prime numbers using the sieve of Eratosthenes](https://wamaithanyamu.com/finding-prime-numbers-in-a-list)
 
 
