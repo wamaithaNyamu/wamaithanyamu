@@ -94,6 +94,7 @@
 
 ## ✍️ Recent Technical Articles
 
+- [Build a slack bot with the slack machine](https://blog.logrocket.com/slack-bot-slack-machine/)
 - [Dealing with outliers in machine learning](https://scanairobi.hashnode.dev/dealing-with-outliers)
 - [How to integrate the Mpesa STK push API in NodeJS](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs)
 - [Finding prime numbers using the sieve of Eratosthenes](https://wamaithanyamu.com/finding-prime-numbers-in-a-list)
