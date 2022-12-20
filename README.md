@@ -94,6 +94,7 @@
 
 ## ✍️ Recent Technical Articles
 
+- [Building microservices using Terraform, Ansible, Docker, Docker Compose, and Github Actions](https://wamaithanyamu.com/building-microservices-using-terraform-ansible-docker-docker-compose-and-github-actions#heading-tools-used)
 - [Secure server login using ssh keys](https://wamaithanyamu.com/secure-server-login-using-ssh-keys)
 - [How to publish an npm package](https://wamaithanyamu.com/how-to-publish-an-npm-package)
 - [Build a slack bot with the slack machine](https://blog.logrocket.com/slack-bot-slack-machine/)
