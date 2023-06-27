@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wamaithanyamu&theme=nord&count_private=true&show_icons=true" alt="Wamaitha's GitHub stats" align="right" />
 </a>
 <p align="left">
-- ✨ I am a Software Engineer with a BSc in Applied Computer Technology and four years of experience in the Information Technology and Services industry. I am skilled in  Software Development, CI/CD, Containerization, MicroService Orchestration, and Artificial Intelligence.<br>
+- ✨ I am a Software Engineer with a BSc in Applied Computer Technology and five years of experience in the Information Technology and Services industry. I am skilled in  Software Development, CI/CD, Containerization, MicroService Orchestration, and Artificial Intelligence.<br>
 
 </p>
   <br>
